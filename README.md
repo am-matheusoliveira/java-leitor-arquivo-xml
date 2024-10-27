@@ -1,6 +1,6 @@
-# Leito de arquivos XML
+# Leitor de Arquivos XML
 
-## Pequeno sistema que realiza a leitura de arquivos XML e imprime o resultado da leitura dos campos na tela para o usuário
+## Um sistema simples que lê arquivos XML e exibe os valores dos campos na tela para o usuário, facilitando a visualização dos dados contidos no XML.
 
 ### Ferramentas usadas
 * #### Linguagem Java JDK 23
